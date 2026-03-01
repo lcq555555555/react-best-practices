@@ -1,6 +1,6 @@
-# React Skills Collection
+# React Best Practices
 
-A comprehensive collection of React patterns, best practices, and utilities to help developers build better React applications.
+A comprehensive collection of React best practices, patterns, and utilities to help developers build better React applications.
 
 ## Overview
 

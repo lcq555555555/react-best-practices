@@ -1,0 +1,1 @@
+A comprehensive collection of React best practices, patterns, and utilities to help developers build better React applications. Includes component patterns, custom hooks, effects management, and state management approaches with clear examples and guidelines.
