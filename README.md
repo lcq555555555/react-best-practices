@@ -2,47 +2,29 @@
 
 A comprehensive collection of React best practices, patterns, and utilities to help developers build better React applications.
 
-## Overview
+## About This Repository
 
-This repository contains a structured collection of React skills organized by topic. Each skill includes:
-- Clear explanations
-- Code examples
-- Best practices
-- Use cases
+This repository contains a structured collection of React skills organized by topic. Each skill is self-contained in its own folder with a `SKILL.md` file containing instructions, code examples, and best practices that developers can follow to improve their React applications.
 
-## Skills Included
+These skills range from fundamental concepts (component patterns, state management) to advanced techniques (custom hooks, effects management), providing a comprehensive resource for React developers at all levels.
 
-### 1. React Component Patterns
-- **Topic**: Component composition, props, children, and component design
-- **Purpose**: Learn how to design and structure React components effectively
-- **Key Concepts**: Children Props, Slot Props, Props design, Component classification, Communication patterns
+## Skills
 
-### 2. React Custom Hooks
-- **Topic**: Custom Hooks best practices and patterns
-- **Purpose**: Extract reusable logic from components
-- **Key Concepts**: Naming conventions, Core principles, Extraction时机, Advanced patterns
+Skills are folders of instructions, code examples, and best practices that help developers implement React patterns in a repeatable way. Whether you're learning how to structure components effectively, manage state efficiently, or handle side effects properly, these skills provide clear guidance and practical examples.
 
-### 3. React Effects
-- **Topic**: useEffect and side effects management
-- **Purpose**: Handle side effects properly in React components
-- **Key Concepts**: Effect dependencies, Cleanup, Common patterns
+## Skill Sets
 
-### 4. React State Management
-- **Topic**: State management approaches and patterns
-- **Purpose**: Manage application state effectively
-- **Key Concepts**: useState, useReducer, Context API, State organization
+- **React Component Patterns**: Composition, props, children, and component design
+- **React Custom Hooks**: Best practices for creating reusable logic
+- **React Effects**: Proper management of side effects with useEffect
+- **React State Management**: Approaches and patterns for state organization
 
-## Getting Started
-
-### Prerequisites
-- Basic understanding of React
-- Node.js and npm installed
-
-### Usage
+## How to Use These Skills
 
 1. **Explore the skills**: Browse through each skill directory to learn about specific React concepts
 2. **Copy code examples**: Use the provided code snippets in your own projects
 3. **Follow best practices**: Apply the recommended patterns to your React applications
+4. **Adapt to your needs**: Modify the examples to fit your specific use cases
 
 ## Project Structure
 
@@ -80,10 +62,9 @@ This project is open source and available under the [MIT License](LICENSE).
 - [React Patterns](https://reactpatterns.com/)
 - [React Hook Recipes](https://usehooks.com/)
 
-## Acknowledgments
+## Disclaimer
 
-- Based on React official documentation and community best practices
-- Inspired by the need for a centralized collection of React patterns
+These skills are provided for educational purposes only. While the patterns and best practices described here are widely recommended, always test them thoroughly in your own environment before relying on them for critical tasks. The implementations and behaviors may vary depending on your specific React version and project setup.
 
 ---
 
